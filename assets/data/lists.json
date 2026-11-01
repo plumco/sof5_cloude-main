@@ -1,0 +1,116 @@
+{
+  "Sales Person": [
+    "International Shipments",
+    "Huliot Plant 714 & 715",
+    "Tushar Nag",
+    "Mriganco Maiti",
+    "Sumit Sharma",
+    "Yuvraj Rathod",
+    "Pratik Kular",
+    "Himanshu Todi",
+    "Mohit Gupta",
+    "Yogesh Kumawat",
+    "Vishal Ganwani",
+    "Vikas Gupta",
+    "Vivek Vandhu",
+    "Devsh Arjariya",
+    "Ganesh Bhosale",
+    "Aditya Raj",
+    "Lalit Panwar",
+    "Surender Banwala",
+    "Jayaraman Iyer",
+    "Babu Gs",
+    "Gokula Kannan",
+    "Satish Kumar",
+    "Santhosh Kumar N S",
+    "Vasudevan S",
+    "Abhishek D.H",
+    "Amit Kini",
+    "Karan Mule",
+    "Ashish Oswal",
+    "Giriraj Tupe",
+    "Hetan Raval",
+    "Prashant Satam",
+    "Vijay More",
+    "Vishal Chavan",
+    "Kartik Shah",
+    "Amit Chougule",
+    "A Komuraiah",
+    "Ajay More",
+    "Sonu Kumar Pandit",
+    "Laxmi Dipak",
+    "Huliot South",
+    "Huliot East",
+    "Huliot North"
+  ],
+  "Payment Terms": [
+    "Advance ",
+    "Under Udaan-Channel Finance",
+    "30 Days PDC ",
+    "LC at Sight",
+    "LC 30 Days "
+  ],
+  "Region": [
+    "International Sales ",
+    "Direct Sales ",
+    "North East ",
+    "Central Zone ",
+    "North Zone ",
+    "South Zone ",
+    "West Zone ",
+    "Retail-Pune ",
+    "Retail-South ",
+    "Retail-Maharashtra "
+  ],
+  "Project Type": [
+    "Individual Villa -IV",
+    "Housing-Residential Project - HR",
+    "Commercial Building - CB",
+    "Hotel Project - HP",
+    "Hospital & Healthcare - HH",
+    "Industrial /Government Project - IG",
+    "Marine - M",
+    "Others"
+  ],
+  "Customer Type": [
+    "Developer ",
+    "Builder ",
+    "Contractor ",
+    "MEP Consultant ",
+    "Distributor"
+  ],
+  "Freight Terms": [
+    "FOR ",
+    "Ex Works ",
+    "FOB (Only for Exports)",
+    "CIF (Only for Exports)"
+  ],
+  "Zonal Manager": [
+    "S. Mukherjee",
+    "Rahul Adhikari",
+    "Amit Deshmukh "
+  ],
+  "Project /Retail": [
+    "Project ",
+    "Retail "
+  ],
+  "CD %": [
+    0,
+    0.03
+  ],
+  "Date": [
+    45292,
+    49674
+  ],
+  "Order Validity": [
+    "7 Days ",
+    "10 Days ",
+    "15 Days "
+  ],
+  "RERA": [
+    "Bunglow",
+    "Hospital",
+    "Hotel ",
+    "Government Project "
+  ]
+}

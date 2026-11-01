@@ -1,0 +1,38 @@
+name: huliot_so_flutter
+description: "Huliot Pipes & Fittings - Standalone Flutter Sales Order Dashboard"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.3.2
+  intl: ^0.19.0
+  pdf: ^3.11.1
+  printing: ^5.13.2
+  archive: ^3.6.1
+  xml: ^6.5.0
+  path_provider: ^2.1.4
+  file_saver: ^0.2.14
+  firebase_core: ^4.15.0
+  firebase_auth: ^6.7.0
+  cloud_firestore: ^6.10.0
+  connectivity_plus: ^7.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/products.json
+    - assets/data/lists.json
+    - assets/data/so_template.xlsx
+    - assets/images/
+    - assets/icons/
